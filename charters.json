@@ -1,0 +1,207 @@
+{
+    "charterSchools": [
+        {
+            "schoolName": "Brick Church College Prep* (LEAD PS)",
+            "link": "http://www.brickchurchcollegeprep.org/",
+            "phone": "615-806-6317",
+            "address": "2835 Brick Church Pike Nashville, TN 37207",
+            "grades": "5th-8th"
+        },
+        {
+            "schoolName": "Cameron College Prep (LEAD PS)",
+            "link": "http://cameroncollegeprep.org/",
+            "phone": "615-806-6320",
+            "address": "1034 1st Avenue Nashville, TN 37210",
+            "grades": "5th-8th"
+        },
+        {
+            "schoolName": "East End Preparatory School",
+            "link": "http://www.eastendprep.org/",
+            "phone": "615-630-7470",
+            "address": "1460 McGavock Pike Nashville, TN 37216",
+            "grades": "K-4th"
+        },
+        {
+            "schoolName": "Explore! Community School",
+            "link": "http://www.explorecommunityschool.com/",
+            "phone": "615-784-8222",
+            "address": "217 S. 10th Street Nashville, TN 37206",
+            "grades": "K"
+        },
+        {
+            "schoolName": "Intrepid College Prep",
+            "link": "http://intrepidcollegeprep.org/home/",
+            "phone": "615-200-0131",
+            "address": "5432 Bell Forge Lane East Antioch, TN 37013",
+            "grades": "5th-7th"
+        },
+        {
+            "schoolName": "KIPP Academy Nashville (KIPP Nashville)",
+            "link": "http://www.kippnashville.org/Gen/2CMnPtCsPtPt.aspx?p1=2764&p2=2769&p3=2770&p4=2771&p5=2786&ph=2772",
+            "phone": "615-226-4484, x 1",
+            "address": "123 Douglas Ave, Nashville, TN 37207",
+            "grades": "5th-8th"
+        },
+        {
+            "schoolName": "KIPP Nashville College Prep (KIPP Nashville)",
+            "link": "http://www.kippnashville.org/Gen/2CMnPtCsPtPt.aspx?p1=2787&p2=2792&p3=2795&p4=2793&p5=2794&ph=2773",
+            "phone": "615-226-4484, x 2",
+            "address": "3410 Knight Drive Nashville, TN 37207",
+            "grades": "5-7th"
+        },
+        {
+            "schoolName": "KIPP Nashville Collegiate High School (KIPP Nashville)",
+            "link": "http://www.kippnashville.org/Gen/2CMnPtCsPtPt.aspx?p1=3335&p2=3336&p3=3337&p4=3338&p5=3339&ph=3334",
+            "phone": "615-226-4484, x 3",
+            "address": "123 Douglas Ave Nashville, TN 37207",
+            "grades": "9th-10th"
+        },
+        {
+            "schoolName": "KIPP Kirkpatrick (KIPP Nashville)",
+            "link": "http://www.kipp.org/school-content/kipp-kirkpatrick-elementary-school",
+            "phone": "615-226-4484, x 5",
+            "address": "1000 Sevier Street Nashville, TN 37206",
+            "grades": "K-1"
+        },
+        {
+            "schoolName": "Knowledge Academies",
+            "link": "http://www.knowledgeacademies.org/",
+            "phone": "615-810-8370",
+            "address": "5320 Hickory Hollow Pkwy Antioch, TN 37013 ",
+            "grades": "5th-8th"
+        },
+        {
+            "schoolName": "Knowledge Academy High School",
+            "link": "http://www.knowledgeacademies.org/",
+            "phone": "615-810-8370",
+            "address": "5320 Hickory Hollow Pkwy Antioch, TN 37013 ",
+            "grades": "9th"
+        },
+        {
+            "schoolName": "LEAD Academy Middle School (LEAD PS)",
+            "link": "http://middle.leadacademy.org/",
+            "phone": "615-352-1253",
+            "address": "2835 Brick Church Pike Nashville, TN 37207",
+            "grades": "5th-8th"
+        },
+        {
+            "schoolName": "LEAD Academy High School (LEAD PS)",
+            "link": "http://high.leadacademy.org/",
+            "phone": "615-327-5422",
+            "address": "1704 Heiman Street Nashville, TN 37208",
+            "grades": "9th-12th"
+        },
+        {
+            "schoolName": "LEAD Prep Southeast (LEAD PS)",
+            "link": "http://www.leadprepsoutheast.org/",
+            "phone": "615-584-6649",
+            "address": "531 Metroplex Drive Nashville, TN 37211",
+            "grades": "5th-7th"
+        },
+        {
+            "schoolName": "Liberty Collegiate Academy (RePublic Schools)",
+            "link": "http://libertycollegiateacademy.org/",
+            "phone": "615-564-1965",
+            "address": "3515 Gallatin Road Nashville, TN 37216",
+            "grades": "5th-8th"
+        },
+        {
+            "schoolName": "Nashville Academy of Computer Science (RePublic Schools)",
+            "link": "http://www.nashvillecomputerscience.org/#about-nacs",
+            "phone": "615-921-5000",
+            "address": "3307 Brick Church Pike Nashville, TN 37207 ",
+            "grades": "5th-6th"
+        },
+        {
+            "schoolName": "Nashville Classical Charter School",
+            "link": "http://www.nashvilleclassical.org/",
+            "phone": "615-538-5841",
+            "address": "1310 Ordway Nashville, TN 37206",
+            "grades": "K-2nd"
+        },
+        {
+            "schoolName": "Nashville Prep (RePublic Schools)",
+            "link": "http://nashvilleprep.org/",
+            "phone": "615-921-8440",
+            "address": "1300 56th Avenue North Nashville, TN 37209",
+            "grades": "5th-8th"
+        },
+        {
+            "schoolName": "Neely's Bend College Prep* (LEAD PS)",
+            "link": "http://neelysbend.leadacademy.org/",
+            "phone": "615-806-6317",
+            "address": "1251 Neely's Bend Road Madison, TN 37115",
+            "grades": "5th"
+        },
+        {
+            "schoolName": "New Vision Academy",
+            "link": "http://newvisionacademytn.org/",
+            "phone": "615-360-1115",
+            "address": "297 Plus Park Boulevard Nashville, TN 37217",
+            "grades": "5th-8th"
+        },
+        {
+            "schoolName": "Purpose Prep",
+            "link": "http://www.purposeprep.org/",
+            "phone": "615-724-0705",
+            "address": "220 Venture Circle, Nashville 37228",
+            "grades": "K-2nd"
+        },
+        {
+            "schoolName": "Rocketship Northeast Nashville",
+            "link": "http://www.rsed.org/nashville/enroll.cfm",
+            "phone": "615-650-5560",
+            "address": "2526 Dickerson Pike Nashville, TN 37207",
+            "grades": "K-4th"
+        },
+        {
+            "schoolName": "Rocketship United Academy",
+            "link": "http://www.rsed.org/nashville/enroll.cfm",
+            "phone": "615-650-5560",
+            "address": "320 Plus Park Blvd Nashville, TN 37217",
+            "grades": "K-4th"
+        },
+        {
+            "schoolName": "Smithson Craighead Academy",
+            "link": "http://www.projectreflect.org/Project_Reflect/?page_id=59/smithsoncraighead.net/Welcome.html",
+            "phone": "615-228-9886",
+            "address": "730 Neely's Bend Rd Madison, TN 37115",
+            "grades": "K-4th"
+        },
+        {
+            "schoolName": "STEM Preparatory Academy",
+            "link": "http://stemprepacademy.org/",
+            "phone": "615-921-2200",
+            "address": "1162 Foster Ave Nashville, TN 37210",
+            "grades": "5th-8th"
+        },
+        {
+            "schoolName": "STEM Prep High School",
+            "link": "http://stemprepacademy.org/",
+            "phone": "615-921-2200",
+            "address": "1162 Foster Ave Nashville, TN 37210",
+            "grades": "9th"
+        },
+        {
+            "schoolName": "STRIVE Collegiate Academy",
+            "link": "http://strivecollegiate.org/",
+            "phone": "615-208-5039",
+            "address": "3055 Lebanon Pike Nashville, TN 37214",
+            "grades": "5th"
+        },
+        {
+            "schoolName": "Valor Collegiate Academy",
+            "link": "http://www.valorcollegiate.org/",
+            "phone": "615-823-7982",
+            "address": "4527 Nolensville Pike Nashville, TN 37207",
+            "grades": "5th-6th"
+        },
+        {
+            "schoolName": "Valor Collegiate Academy #2",
+            "link": "http://www.valorcollegiate.org/",
+            "phone": "615-823-7982",
+            "address": "4527 Nolensville Pike Nashville, TN 37207",
+            "grades": "5th-6th"
+        }
+    ]
+}

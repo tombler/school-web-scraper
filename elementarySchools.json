@@ -1,0 +1,527 @@
+[
+    {
+        "schoolName": "A. Z. Kelley Elementary",
+        "link": "http://azkelleyes.mnps.org/pages/AZ_Kelley_Elementary_School",
+        "phone": "615-941-7535",
+        "address": "5834 Pettus Road  Antioch,TN 37013",
+        "principal": " Marsha Dunn"
+    },
+    {
+        "schoolName": "Alex Green Elementary",
+        "link": "http://alexgreenes.mnps.org/pages/Alex_Green_Elementary_School",
+        "phone": "615-876-5105",
+        "address": "3921 Lloyd Road  Whites Creek ,TN 37189",
+        "principal": "Robyn Beard"
+    },
+    {
+        "schoolName": "Amqui Elementary",
+        "link": "http://amquies.mnps.org",
+        "phone": "615-612-3678",
+        "address": "319 Anderson Lane Madison,TN 37115",
+        "principal": "Dr. Lance High "
+    },
+    {
+        "schoolName": "Andrew Jackson Elementary",
+        "link": "http://andrewjacksones.mnps.org",
+        "phone": "615-847-7317",
+        "address": "110 Shute Lane  Old Hickory,TN 37138",
+        "principal": "Tara Loba"
+    },
+    {
+        "schoolName": "Bellshire Elementary",
+        "link": "http://bellshirees.mnps.org",
+        "phone": "615-860-1452",
+        "address": "1128 Bell Grimes Lane Nashville,TN 37207",
+        "principal": "Dr. Shantrelle Pirtle"
+    },
+    {
+        "schoolName": "Bordeaux Early Learning Center",
+        "link": "http://bordeauxelc.mnps.org/pages/BordeauxELC",
+        "phone": "615-291-6355",
+        "address": "1910 South Hamilton Road  Nashville,TN 37218",
+        "principal": "Dana Eckman"
+    },
+    {
+        "schoolName": "Buena Vista Elementary",
+        "link": "http://buenavista.mnps.org",
+        "phone": "615-291-6762",
+        "address": "1531 - 9th Avenue North Nashville,TN 37208",
+        "principal": "Michelle McVicker"
+    },
+    {
+        "schoolName": "Cane Ridge Elementary",
+        "link": "http://caneridgees.mnps.org",
+        "phone": "615-641-7824",
+        "address": "3884 Asheford Trace Antioch,TN 37013",
+        "principal": "Donna Wilburn"
+    },
+    {
+        "schoolName": "Carter-Lawrence Elementary",
+        "link": "http://carterlawrencees.mnps.org",
+        "phone": "615-291-7333",
+        "address": "1118 - 12th Avenue S  Nashville,TN 37203",
+        "principal": "Inta Sanford"
+    },
+    {
+        "schoolName": "Casa Azafrán Early Learning Center ",
+        "link": "http://casaazafranelc.mnps.org",
+        "phone": "615-627-8624",
+        "address": "2195 Nolensville Pike, Suite 3 Nashville, TN 37211",
+        "principal": "Dalila Duarte"
+    },
+    {
+        "schoolName": "Chadwell Elementary",
+        "link": "http://chadwelles.mnps.org",
+        "phone": "615-860-1459",
+        "address": "321 Port Drive  Madison,TN 37115",
+        "principal": "Elnora Mitchell-Furdge"
+    },
+    {
+        "schoolName": "Charlotte Park Elementary",
+        "link": "http://charlotteparkes.mnps.org",
+        "phone": "615-353-2006",
+        "address": "480 Annex Avenue Nashville,TN 37209",
+        "principal": "Dr. Amy Downey"
+    },
+    {
+        "schoolName": "Cockrill Elementary",
+        "link": "http://cockrilles.mnps.org",
+        "phone": "615-298-8075",
+        "address": "4701 Indiana Avenue  Nashville,TN 37209",
+        "principal": "Susan Cochrane"
+    },
+    {
+        "schoolName": "Cole Elementary",
+        "link": "http://colees.mnps.org",
+        "phone": "615-333-5043",
+        "address": "5060 Colemont Drive  Antioch,TN 37013",
+        "principal": "Dr. Darwin Mason, Sr."
+    },
+    {
+        "schoolName": "Crieve Hall Elementary",
+        "link": "http://crievehalles.mnps.org",
+        "phone": "615-333-5059",
+        "address": "498 Hogan Road   Nashville,TN 37220",
+        "principal": "Linda Mickle"
+    },
+    {
+        "schoolName": "Cumberland Elementary",
+        "link": "http://cumberlandes.mnps.org",
+        "phone": "615-291-6370",
+        "address": "4247 Cato Road   Nashville,TN 37218",
+        "principal": "DeeAnne Miree"
+    },
+    {
+        "schoolName": "Dan Mills Elementary",
+        "link": "http://danmillses.mnps.org",
+        "phone": "615-262-6677",
+        "address": "4106 Kennedy Avenue  Nashville,TN 37216",
+        "principal": "Patti Yon"
+    },
+    {
+        "schoolName": "Dodson Elementary",
+        "link": "http://dodsones.mnps.org",
+        "phone": "615-885-8806",
+        "address": "4401 Chandler Road  Hermitage,TN 37076",
+        "principal": "Tiffany Curtis"
+    },
+    {
+        "schoolName": "DuPont Elementary",
+        "link": "http://dupontes.mnps.org",
+        "phone": "615-847-7305",
+        "address": "1311 - 9th Street  Old Hickory ,TN 37138",
+        "principal": "Stephanie Hoskins"
+    },
+    {
+        "schoolName": "Eakin Elementary",
+        "link": "http://eakines.mnps.org",
+        "phone": "615-298-8076",
+        "address": "2500 Fairfax Avenue  Nashville,TN 37212",
+        "principal": "Dr. Timothy Drinkwine"
+    },
+    {
+        "schoolName": "East End Preparatory",
+        "link": "http://www.eastendprep.org/",
+        "phone": "615-249-8834",
+        "address": "1460 McGavock Pike  Nashville,TN 37216",
+        "principal": "Jim Leckrone"
+    },
+    {
+        "schoolName": "Explore Community School",
+        "link": "http://www.explorecommunityschool.com",
+        "phone": "615-249-8834",
+        "address": "217 South 10th Street  Nashville,TN 37206",
+        "principal": "Jim Leckrone"
+    },
+    {
+        "schoolName": "Fall-Hamilton Elementary",
+        "link": "http://fallhamiltones.mnps.org",
+        "phone": "615-784-8222",
+        "address": "510 Wedgewood Avenue  Nashville,TN 37203",
+        "principal": "Mathew Portell"
+    },
+    {
+        "schoolName": "Gateway Elementary",
+        "link": "http://gatewayes.mnps.org",
+        "phone": "615-860-1465",
+        "address": "1524 Monticello Avenue Madison,TN 37115",
+        "principal": "John Garland"
+    },
+    {
+        "schoolName": "Glencliff Elementary",
+        "link": "http://glencliffes.mnps.org",
+        "phone": "615-333-5105",
+        "address": "120 Antioch Pike  Nashville,TN 37211",
+        "principal": "Julie Hopkins"
+    },
+    {
+        "schoolName": "Glendale Elementary",
+        "link": "http://glendalees.mnps.org",
+        "phone": "615-279-7970",
+        "address": "800 Thompson Avenue Nashville,TN 37204",
+        "principal": "Mary Sue Clark"
+    },
+    {
+        "schoolName": "Profile",
+        "link": "http://www.mnps.org/pages/mnps/About_Us/MNPS_Schools/Elementary_Schools/Elementary_School_Profiles/Glengarry_Elementary_School_Pr",
+        "phone": "615-360-2900",
+        "address": "200 Finley Drive   Nashville,TN 37217",
+        "principal": "Ricki Gibbs"
+    },
+    {
+        "schoolName": "Profile",
+        "link": "http://www.mnps.org/pages/mnps/About_Us/MNPS_Schools/Elementary_Schools/Elementary_School_Profiles/Glenn_Elementary_School_Profil",
+        "phone": "615-262-6682",
+        "address": "322 Cleveland Street   Nashville,TN 37207",
+        "principal": "Dexter Adams"
+    },
+    {
+        "schoolName": "Glenview Elementary",
+        "link": "http://glenviewes.mnps.org",
+        "phone": "615-360-2906",
+        "address": "1020 Patricia Drive  Nashville,TN 37217",
+        "principal": "Marsha McGill"
+    },
+    {
+        "schoolName": "Goodlettsville Elementary",
+        "link": "http://goodlettsvillees.mnps.org",
+        "phone": "615-859-8950",
+        "address": "514 Donald Street  Goodlettsville ,TN 37072",
+        "principal": "Tracy Gibson"
+    },
+    {
+        "schoolName": "Gower Elementary",
+        "link": "http://goweres.mnps.org",
+        "phone": "615-353-2012",
+        "address": "650 Old Hickory Blvd.  Nashville,TN 37209",
+        "principal": "Barbara Frazier"
+    },
+    {
+        "schoolName": "Profile",
+        "link": "http://www.mnps.org/pages/mnps/About_Us/MNPS_Schools/Elementary_Schools/Elementary_School_Profiles/Harpeth_Valley_Elementary_Scho",
+        "phone": "615-662-3015",
+        "address": "7840 Learning Lane  Nashville,TN 37221",
+        "principal": "Dr. Ann-Marie Gleason"
+    },
+    {
+        "schoolName": "Hattie Cotton Elementary",
+        "link": "http://hattiecottones.mnps.org",
+        "phone": "615-262-6981",
+        "address": "1033 West Greenwood Avenue Nashville,TN 37206",
+        "principal": "Jaqueta Adams"
+    },
+    {
+        "schoolName": "Haywood Elementary",
+        "link": "http://haywoodes.mnps.org",
+        "phone": "615-333-5118",
+        "address": "3790 Turley Drive   Nashville,TN 37211",
+        "principal": "Edward Xavier Barrios"
+    },
+    {
+        "schoolName": "Henry C. Maxwell Elementary",
+        "link": "http://maxwelles.mnps.org",
+        "phone": "615-333-7180",
+        "address": "5535 Blue Hole Road  Antioch,TN 37013",
+        "principal": "Dr. Darwin Mason Jr."
+    },
+    {
+        "schoolName": "Hermitage Elementary",
+        "link": "http://hermitagees.mnps.org",
+        "phone": "615-885-8838",
+        "address": "3800 Plantation Drive   Hermitage ,TN 37076",
+        "principal": "Kellee Akers"
+    },
+    {
+        "schoolName": "Hickman Elementary",
+        "link": "http://hickmanes.mnps.org",
+        "phone": "615-884-4020",
+        "address": "112 Stewarts Ferry Pike Nashville,TN 37214",
+        "principal": "Dr. Kim Fowler"
+    },
+    {
+        "schoolName": "Hull-Jackson Elementary",
+        "link": "http://hulljacksones.mnps.org",
+        "phone": "615-291-6601",
+        "address": "1015 Kellow Street  Nashville,TN 37208",
+        "principal": "Martha Phillips"
+    },
+    {
+        "schoolName": "Inglewood Elementary",
+        "link": "http://inglewoodes.mnps.org",
+        "phone": "615-262-6697",
+        "address": "1700 Riverside Drive  Nashville,TN 37216",
+        "principal": "Tracy McPherson"
+    },
+    {
+        "schoolName": "J. E. Moss Elementary",
+        "link": "http://jemosses.mnps.org",
+        "phone": "615-333-5200",
+        "address": "4701 Bowfield Drive Antioch,TN 37013",
+        "principal": "Anthony Febles"
+    },
+    {
+        "schoolName": "Joelton Elementary",
+        "link": "http://joeltones.mnps.org",
+        "phone": "615-876-5110",
+        "address": "7141 Whites Creek Pike  Joelton ,TN 37080",
+        "principal": "Dr. Rebecca Welch"
+    },
+    {
+        "schoolName": "Jones Elementary",
+        "link": "http://jonespaideiaes.mnps.org ",
+        "phone": "615-291-6382",
+        "address": "1800 - 9th Avenue North Nashville, TN 37208",
+        "principal": "Dr. Debra Smith"
+    },
+    {
+        "schoolName": "Julia Green Elementary",
+        "link": "http://juliagreenes.mnps.org",
+        "phone": "615-298-8082",
+        "address": "3500 Hobbs Road   Nashville,TN 37215",
+        "principal": "Dr. Andrew Davis"
+    },
+    {
+        "schoolName": "Kirkpatrick Elementary",
+        "link": "http://kirkpatrickes.mnps.org",
+        "phone": "615-262-6708",
+        "address": "1000 Sevier Street  Nashville,TN 37206",
+        "principal": "Mildred Nelson"
+    },
+    {
+        "schoolName": "Lakeview Elementary",
+        "link": "http://lakeviewes.mnps.org",
+        "phone": "615-360-2912",
+        "address": "455 Rural Hill Road   Nashville,TN 37217",
+        "principal": "Dr. Robin Shumate"
+    },
+    {
+        "schoolName": "Lockeland Elementary",
+        "link": "http://lockelandes.mnps.org",
+        "phone": "615-258-1330",
+        "address": "105 South 17th Street Nashville,TN 37206",
+        "principal": "Christie C. Lewis"
+    },
+    {
+        "schoolName": "Profile",
+        "link": "http://www.mnps.org/pages/mnps/About_Us/MNPS_Schools/Elementary_Schools/Elementary_School_Profiles/McGavock_Elementary_School_Pro",
+        "phone": "615-885-8912",
+        "address": "275 McGavock Pike   Nashville,TN 37214",
+        "principal": "Jason Taylor"
+    },
+    {
+        "schoolName": "Mount View Elementary",
+        "link": "http://mtviewes.mnps.org",
+        "phone": "615-641-9393",
+        "address": "3820 Murfreesboro Road Antioch,TN 37013",
+        "principal": "Julia Lamb"
+    },
+    {
+        "schoolName": "Napier Elementary",
+        "link": "http://napieres.mnps.org",
+        "phone": "615-291-6400",
+        "address": "60 Fairfield Avenue   Nashville,TN 37210",
+        "principal": "Angela Underwood"
+    },
+    {
+        "schoolName": "Nashville Classical ",
+        "link": "http://www.nashvilleclassical.org/",
+        "phone": "615-538-5841",
+        "address": "1310 Ordway Place, Nashville, TN 37206",
+        "principal": "Charlie Friedman"
+    },
+    {
+        "schoolName": "Neely's Bend Elementary",
+        "link": "http://neelysbendes.mnps.org",
+        "phone": "615-860-1471",
+        "address": "1300 Neely's Bend Road  Madison,TN 37115",
+        "principal": " Donna Poag"
+    },
+    {
+        "schoolName": "Norman Binkley Elementary",
+        "link": "http://normanbinkleyes.mnps.org",
+        "phone": "615-333-5037",
+        "address": "4700 West Longdale Drive  Nashville,TN 37211",
+        "principal": "James Urquhart"
+    },
+    {
+        "schoolName": "Old Center Elementary",
+        "link": "http://www.mnps.org/pages/mnps/About_Us/MNPS_Schools/Elementary_Schools/Elementary_School_Profiles/Old_Center_Elementary_School_P",
+        "phone": "615-859-8968",
+        "address": "1245 Dickerson Pike South Goodlettsville,TN 37072",
+        "principal": "Brenda Steele"
+    },
+    {
+        "schoolName": "Paragon Mills Elementary",
+        "link": "http://paragonmillses.mnps.org/pages/mnps/About_Us/MNPS_Schools/Elementary_Schools/Elementary_School_Profiles/Paragon_Mills_Elementary_Schoo",
+        "phone": "615-333-5170",
+        "address": "260 Paragon Mills Road  Nashville,TN 37211",
+        "principal": "Jane P. Johnson"
+    },
+    {
+        "schoolName": "Park Avenue Elementary",
+        "link": "http://www.edlinesites.net/pages/Park_Avenue",
+        "phone": "615-298-8412",
+        "address": "3703 Park Avenue   Nashville,TN 37209",
+        "principal": "Deltina Braden"
+    },
+    {
+        "schoolName": "Pennington Elementary",
+        "link": "http://penningtones.mnps.org",
+        "phone": "615-885-8918",
+        "address": "2817 Donna Hill Drive  Nashville,TN 37214",
+        "principal": "Jacqueline Kinzer"
+    },
+    {
+        "schoolName": "Percy Priest Elementary",
+        "link": "http://www.percypriest.org/",
+        "phone": "615-298-8416",
+        "address": "1700 Otter Creek Road  Nashville,TN 37215",
+        "principal": "Melinda Williams"
+    },
+    {
+        "schoolName": "Purpose Preparatory",
+        "link": "http://www.purposeprep.org/",
+        "phone": "615-724-0705",
+        "address": "220 Venture Circle  Nashville,TN 37228",
+        "principal": "Lagra Newman"
+    },
+    {
+        "schoolName": "Robert Churchwell Elementary",
+        "link": "http://robertchurchwelles.mnps.org",
+        "phone": "615-687-4024",
+        "address": "1625 Dr. D. B. Todd Jr. Blvd. Nashville,TN 37208",
+        "principal": "Trellaney Lane"
+    },
+    {
+        "schoolName": "Robert E. Lillard Elementary",
+        "link": "http://relillardes.mnps.org",
+        "phone": "615-876-5126",
+        "address": "3200 King's Lane   Nashville,TN 37218",
+        "principal": "Derek Sanborn"
+    },
+    {
+        "schoolName": "Rosebank Elementary",
+        "link": "http://rosebankes.mnps.org",
+        "phone": "615-262-6720",
+        "address": "1012 Preston Drive   Nashville,TN 37206",
+        "principal": "LaTonya White"
+    },
+    {
+        "schoolName": "Ross Early Learning Center",
+        "link": "http://rosselc.mnps.org/pages/RossELC",
+        "phone": "615-262-6721",
+        "address": "601 McFerrin Avenue  Nashville,TN 37206",
+        "principal": "Laura Bilbrey "
+    },
+    {
+        "schoolName": "Profile",
+        "link": "http://www.mnps.org/pages/mnps/About_Us/MNPS_Schools/Elementary_Schools/Elementary_School_Profiles/Ruby_Major_Elementary_School_P",
+        "phone": "615-232-2203",
+        "address": "5141 John Hager Road Hermitage,TN 37076",
+        "principal": "Michael Westveer"
+    },
+    {
+        "schoolName": "Shayne Elementary",
+        "link": "http://shaynees.mnps.org",
+        "phone": "615-332-3020",
+        "address": "6217 Nolensville Road Nashville,TN 37211",
+        "principal": "Pam Greer"
+    },
+    {
+        "schoolName": "Shwab Elementary",
+        "link": "http://shwabes.mnps.org",
+        "phone": "615-262-6725",
+        "address": "1500 Dickerson Road  Nashville,TN 37207",
+        "principal": "Dr. Natalyn Gibbs"
+    },
+    {
+        "schoolName": "Smith Springs Elementary",
+        "link": "http://smithspringses.mnps.org/pages/Smith_Springs",
+        "phone": "615-645-6465",
+        "address": "3132 Smith Springs Road, Antioch,TN 37013",
+        "principal": "Lance Forman"
+    },
+    {
+        "schoolName": "Stratton Elementary",
+        "link": "http://strattones.mnps.org",
+        "phone": "615-860-1486",
+        "address": "310 Old Hickory Blvd. West Madison,TN 37115",
+        "principal": "Renita Perkins"
+    },
+    {
+        "schoolName": "Sylvan Park Elementary",
+        "link": "http://sylvanparkes.mnps.org",
+        "phone": "615-298-8423",
+        "address": "4801 Utah Avenue  Nashville,TN 37209",
+        "principal": "Susan Blankenship"
+    },
+    {
+        "schoolName": "Thomas A. Edison Elementary",
+        "link": "http://thomasedisones.mnps.org",
+        "phone": "615-501-8800",
+        "address": "6130 Mt. View Road  Antioch,TN 37013",
+        "principal": "Dr. Kesha L. Walrond"
+    },
+    {
+        "schoolName": "Tom Joy Elementary",
+        "link": "http://tomjoyes.mnps.org",
+        "phone": "615-262-6724",
+        "address": "2201 Jones Avenue   Nashville,TN 37207",
+        "principal": "Sandra Moorman"
+    },
+    {
+        "schoolName": "Tulip Grove Elementary",
+        "link": "http://tulipgrovees.mnps.org",
+        "phone": "615-885-8944",
+        "address": "441 Tyler Drive Hermitage,TN 37076",
+        "principal": "Denise Colon"
+    },
+    {
+        "schoolName": "Tusculum Elementary",
+        "link": "http://tusculumes.mnps.org",
+        "phone": "615-333-5179",
+        "address": "4917 Nolensville Road  Nashville,TN 37211",
+        "principal": "Dr. Alison McMahan"
+    },
+    {
+        "schoolName": "Una Elementary",
+        "link": "http://unaes.mnps.org",
+        "phone": "615-360-2921",
+        "address": "2018 Murfreesboro Road  Nashville,TN 37217",
+        "principal": "Amelia Dukes"
+    },
+    {
+        "schoolName": "Warner Elementary",
+        "link": "http://warneres.mnps.org",
+        "phone": "615-291-6395",
+        "address": "626 Russell Street  Nashville,TN 37206",
+        "principal": "Candace Cook"
+    },
+    {
+        "schoolName": "Westmeade Elementary",
+        "link": "http://westmeadees.mnps.org",
+        "phone": "615-353-2066",
+        "address": "6641 Clearbrook Drive  Nashville,TN 37205",
+        "principal": "Stephen Breese"
+    }
+]
