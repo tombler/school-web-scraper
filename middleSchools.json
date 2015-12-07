@@ -1,0 +1,342 @@
+[
+    {
+        "schoolName": "Antioch Middle",
+        "link": "http://antiochms.mnps.org",
+        "phone": "615-312-6197",
+        "address": "5050 Blue Hole Road   Antioch,TN 37013",
+        "principal": "Celia Conley"
+    },
+    {
+        "schoolName": "Apollo Middle",
+        "link": "http://apolloms.mnps.org",
+        "phone": "615-333-5025",
+        "address": "631 Richards Road Antioch,TN 37013",
+        "principal": "Shawn Lawrence"
+    },
+    {
+        "schoolName": "Bailey Middle",
+        "link": "http://baileyms.mnps.org",
+        "phone": "615-262-6670",
+        "address": "2000 Greenwood Avenue Nashville,TN 37206",
+        "principal": "Charlie McReynolds"
+    },
+    {
+        "schoolName": "Bellevue Middle",
+        "link": "http://bellevuems.mnps.org",
+        "phone": "615-662-3000",
+        "address": "655 Colice-Jeanne Road  Nashville,TN 37221",
+        "principal": "Mark Pittman "
+    },
+    {
+        "schoolName": "Brick Church College Preparatory",
+        "link": "http://www.brickchurchcollegeprep.org/",
+        "phone": "615-352-1253",
+        "address": "2835 Brick Church Pike Nashville,TN 37207",
+        "principal": "Dennis Wolff"
+    },
+    {
+        "schoolName": "Cameron College Preparatory",
+        "link": "http://www.cameroncollegeprep.org/",
+        "phone": "615-806-6320",
+        "address": "1034 1st Avenue, South  Nashville,TN 37210",
+        "principal": "Tait Danhausen"
+    },
+    {
+        "schoolName": "Creswell Middle Prep School of the Arts",
+        "link": "http://creswellms.mnps.org/pages/CreswellMiddle",
+        "phone": "615-291-6515",
+        "address": "3500 John Mallette Drive  Nashville,TN 37218",
+        "principal": "Dr. Ted Murcray"
+    },
+    {
+        "schoolName": "Croft Middle ",
+        "link": "http://croftms.mnps.org",
+        "phone": "615-332-0217",
+        "address": "482 Elysian Fields Rd  Nashville,TN 37211",
+        "principal": "Barbara Maultsby-Springer"
+    },
+    {
+        "schoolName": "Donelson Middle",
+        "link": "http://donelsonms.mnps.org",
+        "phone": "615-884-4080",
+        "address": "110 Stewarts Ferry Pike  Nashville,TN 37214",
+        "principal": "Jennifer Rheinecker"
+    },
+    {
+        "schoolName": "DuPont Hadley Middle",
+        "link": "http://duponthadleyms.mnps.org",
+        "phone": "615-847-7300",
+        "address": "1901 Old Hickory Blvd.   Old Hickory ,TN 37138",
+        "principal": "Dr. Kevin Armstrong"
+    },
+    {
+        "schoolName": "DuPont Tyler Middle",
+        "link": "http://duponttylerms.mnps.org",
+        "phone": "615-885-8827",
+        "address": "431 Tyler Drive Hermitage ,TN 37076",
+        "principal": "Dr. Damon Cathey"
+    },
+    {
+        "schoolName": "East Nashville School",
+        "link": "http://eastnashvillemagnet.mnps.org",
+        "phone": "615-262-6947",
+        "address": "110 Gallatin Road Nashville,TN 37206",
+        "principal": "Steve Ball"
+    },
+    {
+        "schoolName": "Goodlettsville Middle",
+        "phone": "615-227-1042",
+        "address": "1460 McGavock Pike   Nashville,TN 37216",
+        "principal": "Katrina Frazier"
+    },
+    {
+        "schoolName": "Gra-Mar Middle",
+        "link": "http://gramarms.mnps.org/pages/Gra-Mar_Middle_School",
+        "phone": "615-262-6685",
+        "address": "575 Joyce Lane   Nashville,TN 37216",
+        "principal": "Sonya Brooks"
+    },
+    {
+        "schoolName": "H.G. Hill Middle",
+        "link": "http://hghillms.mnps.org",
+        "phone": "615-353-2020",
+        "address": "150 Davidson Road  Nashville,TN 37205",
+        "principal": "Connie Gwinn"
+    },
+    {
+        "schoolName": "Haynes Middle",
+        "link": "http://haynesms.mnps.org",
+        "phone": "615-262-6688",
+        "address": "510 West Trinity Lane  Nashville,TN 37207",
+        "principal": "Dr. Canidra Henderson"
+    },
+    {
+        "schoolName": "Profile",
+        "link": "http://www.mnps.org/pages/mnps/About_Us/MNPS_Schools/Middle_Schools/Middle_Preps_School_Profiles/Head_Middle_School_Profile",
+        "phone": "615-329-8160",
+        "address": "1830 Jo Johnston Avenue  Nashville,TN 37203",
+        "principal": "Dr. Tonja Williams"
+    },
+    {
+        "schoolName": "Intrepid Preparatory",
+        "link": "http://intrepidcollegeprep.org/home/",
+        "phone": "615-810-8443",
+        "address": "5234 Bell Forge Lane East  Antioch,TN 37013",
+        "principal": "Mia Howard"
+    },
+    {
+        "schoolName": "Jere Baxter Middle",
+        "link": "http://jerebaxterms.mnps.org",
+        "phone": "615-262-6710",
+        "address": "350 Hart Lane Nashville,TN 37207",
+        "principal": "Miriam Harrington"
+    },
+    {
+        "schoolName": "Joelton Middle",
+        "link": "http://joeltonms.mnps.org",
+        "phone": "615-876-5100",
+        "address": "3500 Old Clarksville Pike  Joelton,TN 37080",
+        "principal": "Peggy Brodien"
+    },
+    {
+        "schoolName": "John Early Middle",
+        "link": "http://johnearlyms.mnps.org",
+        "phone": "615-291-6369",
+        "address": "1000 Cass Street  Nashville,TN 37208",
+        "principal": "Rise' Pope"
+    },
+    {
+        "schoolName": "John F. Kennedy Middle",
+        "link": "http://kennedyms.mnps.org",
+        "phone": "615-501-7900",
+        "address": "2087 Hobson Pike Antioch,TN 37013",
+        "principal": "Dr. Sam Braden, III"
+    },
+    {
+        "schoolName": "John Trotwood Moore",
+        "link": "http://jtmoorems.mnps.org",
+        "phone": "615-298-8095",
+        "address": "4425 Granny White Pike  Nashville,TN 37204",
+        "principal": "Dr. Gary Hughes"
+    },
+    {
+        "schoolName": "KIPP Academy Nashville",
+        "link": "http://www.kippnashville.org/",
+        "phone": "615-226-4484",
+        "address": "3410 Knight Road Nashville,TN 37207",
+        "principal": "Laura Howarth"
+    },
+    {
+        "schoolName": "KIPP College Preparatory",
+        "link": "http://school.3n1media.com/",
+        "phone": "615-226-4484",
+        "address": "3410 Knight Road  Nashville,TN 37207",
+        "principal": "Nikki Miller"
+    },
+    {
+        "schoolName": "Knowledge Academy",
+        "link": "http://www.knowledgeacademies.org/",
+        "phone": "615-810-8370",
+        "address": "5380 Hickory Hollow Pkwy.  Antioch,TN 37013",
+        "principal": "Arielle McCallum"
+    },
+    {
+        "schoolName": "LEAD Academy",
+        "phone": "615-806-6317",
+        "address": "2835 Brick Church Pike",
+        "principal": "Nicolas Frank"
+    },
+    {
+        "schoolName": "LEAD Preparatory Southeast",
+        "link": "http://leadprepsoutheast.org/",
+        "phone": "615-806-6320",
+        "address": "531 Metroplex Drive Nashville,TN 37211",
+        "principal": "Chris Elliott"
+    },
+    {
+        "schoolName": "Liberty Collegiate Academy",
+        "link": "http://libertycollegiateacademy.org/",
+        "phone": "615-564-1965",
+        "address": "3515 Gallatin Road Nashville,TN 37216",
+        "principal": "Annie Robison"
+    },
+    {
+        "schoolName": "Isaac Litton Middle",
+        "link": "http://isaaclittonms.mnps.org",
+        "phone": "615-262-6700",
+        "address": "4601 Hedgewood Drive  Nashville,TN 37216",
+        "principal": "Lynn Pridy"
+    },
+    {
+        "schoolName": "Madison Middle",
+        "link": "http://www.edlinesites.net/pages/MNPS_MadisonMiddlele",
+        "phone": "615-687-4018",
+        "address": "300 Old Hickory Blvd. W.  Madison,TN 37115",
+        "principal": "Kelli Lorton"
+    },
+    {
+        "schoolName": "Margaret Allen Middle",
+        "link": "http://margaretallenms.mnps.org",
+        "phone": "615-291-6385",
+        "address": "500 Spence Lane Nashville,TN 37210",
+        "principal": "Kisha Stinson-Cox"
+    },
+    {
+        "schoolName": "Martin Luther King Jr. School",
+        "link": "http://mlkmagnet.mnps.org",
+        "phone": "615-329-8400",
+        "address": "613 - 17th Avenue, North  Nashville,TN 37203",
+        "principal": "Dr. Angela Carr"
+    },
+    {
+        "schoolName": "McMurray Middle",
+        "link": "http://mcmurrayms.mnps.org",
+        "phone": "615-333-5126",
+        "address": "520 McMurray Drive   Nashville,TN 37211",
+        "principal": "T-Shaka Coverson"
+    },
+    {
+        "schoolName": "Meigs Middle",
+        "link": "http://meigsmagnetms.mnps.org",
+        "phone": "615-271-3222",
+        "address": "713 Ramsey Street  Nashville,TN 37206",
+        "principal": "Dr. Scott Underwood"
+    },
+    {
+        "schoolName": "MNPS Virtual School",
+        "link": "http://vlearn.mnps.org/pages/MNPSVirtualSchool",
+        "phone": "615-463-0188",
+        "address": "\n4805 Park Avenue \nNashville,TN 37209\n",
+        "principal": "Dr. James V. Witty"
+    },
+    {
+        "schoolName": "Profile",
+        "link": "http://www.mnps.org/pages/mnps/About_Us/MNPS_Schools/Middle_Schools/Middle_Preps_School_Profiles/Moses_McKissack_Middle_School_",
+        "phone": "615-329-8170",
+        "address": "915 - 38th Avenue, North Nashville, TN 37209",
+        "principal": "Darren Kennedy"
+    },
+    {
+        "schoolName": "Nashville Preparatory",
+        "link": "http://www.nashvilleprep.org/",
+        "phone": "615-921-8440",
+        "address": "1300 - 56th Avenue N  Nashville,TN 37209",
+        "principal": "Arlyn Ilgenfritz"
+    },
+    {
+        "schoolName": "Profile",
+        "link": "http://www.mnps.org/pages/mnps/About_Us/MNPS_Schools/Middle_Schools/Middle_Preps_School_Profiles/Neely_s_Bend_Middle_School_Pro",
+        "phone": "615-860-1477",
+        "address": "1251 Neely's Bend Rd.  Madison,TN 37115",
+        "principal": "Michelle Brock Demps"
+    },
+    {
+        "schoolName": " ",
+        "phone": " ",
+        "address": "1251 Neely's Bend Rd.  Madison,TN 37115",
+        "principal": "Shawn Jackson"
+    },
+    {
+        "schoolName": "New Vision Academy",
+        "link": "http://www.newvisionacademytn.org/",
+        "phone": "615-360-1115",
+        "address": "297 Plus Park Blvd.  Nashville,TN 37217",
+        "principal": "Tim Malone"
+    },
+    {
+        "schoolName": "Rose Park Middle",
+        "link": "http://roseparkmagnetms.mnps.org",
+        "phone": "615-291-6405",
+        "address": "1200 - 2nd Avenue, South  Nashville,TN 37210",
+        "principal": "Robert Blankenship"
+    },
+    {
+        "schoolName": "STEM Preparatory Academy",
+        "link": "http://www.stemprepacademy.org/",
+        "phone": " 615-921-2200",
+        "address": "1162 Foster Avenue Nashville,TN 37210",
+        "principal": "Dr. Kristin McGraner"
+    },
+    {
+        "schoolName": "STRIVE Collegiate Academy",
+        "link": "http://strivecollegiate.org",
+        "phone": "615-645-6440 ",
+        "address": "\n3055 Lebanon Pike, Building 1, Suite 300\nNashville, TN 37214\n",
+        "principal": "LaKendra Butler"
+    },
+    {
+        "schoolName": "Thurgood Marshall Middle",
+        "link": "http://thurgoodmarshallms.mnps.org",
+        "phone": "615-941-7515",
+        "address": "5832 Pettus Road  Antioch,TN 37013",
+        "principal": "Roderick Webb"
+    },
+    {
+        "schoolName": "Two Rivers Middle",
+        "link": "http://tworiversms.mnps.org",
+        "phone": "615-885-8931",
+        "address": "2991 McGavock Pike  Nashville,TN 37214",
+        "principal": "Dr. Shelly Dunaway"
+    },
+    {
+        "schoolName": "West End Middle",
+        "link": "http://westendms.mnps.org",
+        "phone": "615-298-8425",
+        "address": "3529 West End Avenue Nashville,TN 37205",
+        "principal": "Dr. Craig Hammond"
+    },
+    {
+        "schoolName": "William Henry Oliver Middle",
+        "link": "http://oliverms.mnps.org",
+        "phone": "615- 332-3011",
+        "address": "6211 Nolensville Road Nashville, TN 37211 ",
+        "principal": "Jeanna Collins"
+    },
+    {
+        "schoolName": "Wright Middle",
+        "link": "http://wrightms.mnps.org",
+        "phone": "615-333-5189",
+        "address": "180 McCall Street  Nashville,TN 37211",
+        "principal": "Dr. Erin Anderson"
+    }
+]

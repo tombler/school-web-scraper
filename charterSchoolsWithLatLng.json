@@ -232,6 +232,17 @@
             }
         },
         {
+            "schoolName": "RePublic High School (RePublic Schools)",
+            "link": "http://www.republichighschool.org/",
+            "phone": "615-921-6620",
+            "address": "3307 Brick Church Pike Nashville, TN 37207",
+            "grades": "9th",
+            "latLng": {
+                "lat": "36.242416",
+                "lng": "-86.779082"
+            }
+        },
+        {
             "schoolName": "Rocketship Northeast Nashville",
             "link": "http://www.rsed.org/nashville/enroll.cfm",
             "phone": "615-650-5560",

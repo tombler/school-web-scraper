@@ -60,36 +60,36 @@ $(document).ready(function () {
 
         // ****** places all coordinates in markers on map:
 
-        // var marker;
-        // for (var j = 0; j < coords.length; j++) {
-        //     console.log(coords[j].lat(), coords[j].lng());
-        //     //currentLatLng = [coords[j].lat(), lng: coords[j].lng()}
-        //     marker = new google.maps.Marker({
-        //         position: new google.maps.LatLng(coords[j].lat(), coords[j].lng()),
-        //         map: map
-        //     });
-        // }
+        var marker;
+        for (var j = 0; j < coords.length; j++) {
+            console.log(coords[j].lat(), coords[j].lng());
+            //currentLatLng = [coords[j].lat(), lng: coords[j].lng()}
+            marker = new google.maps.Marker({
+                position: new google.maps.LatLng(coords[j].lat(), coords[j].lng()),
+                map: map
+            });
+        }
 
     }
 
 
 
-    // $.ajax({
-    //     url: 'charters.json'
-    // })
-    // .done(function (charters) {
-    //     var addresses = [];
-    //     for (var i = 0; i < charters.charterSchools.length; i++)
-    //     {
-    //         addresses.push(charters.charterSchools[i].address);
-    //     }
-    //     // console.log(addresses);
-    //     charters = charters.charterSchools;
-    //     //console.log(charters);
-    //     getCoordinates(addresses, charters);
+    $.ajax({
+        url: 'charters.json'
+    })
+    .done(function (charters) {
+        var addresses = [];
+        for (var i = 0; i < charters.charterSchools.length; i++)
+        {
+            addresses.push(charters.charterSchools[i].address);
+        }
+        // console.log(addresses);
+        charters = charters.charterSchools;
+        //console.log(charters);
+        getCoordinates(addresses, charters);
 
         
-    // })
+    })
 
     $.ajax({
         url: 'elementarySchools.json'
